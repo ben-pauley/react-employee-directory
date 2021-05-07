@@ -16,4 +16,5 @@ const SearchName = () => {
     </div>
   );
 };
+
 export default SearchName;
