@@ -6,7 +6,7 @@ In this GitHub repository, you will find my employee directory application, deve
 
 ## Installation
 
-This application does not need to be installed, as it can be viewed live on GitHub pages at the following URL. []()
+This application does not need to be installed, as it can be viewed live on GitHub pages at the following URL. [https://ben-pauley.github.io/react-employee-directory/](https://ben-pauley.github.io/react-employee-directory/)
 
 ## Screenshot of Deployed Application
 
